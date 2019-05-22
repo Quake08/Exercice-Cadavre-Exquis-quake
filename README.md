@@ -5,8 +5,6 @@ Tout commence en 1998, quand je me rends compte que plus d'essence dans mon vél
 
 
 
-Binon Frédéric
-
 # Le petit Poulet.
 Un petit poulet fut un jour réveillé aux aurores par son père criant ses 
 poumons en se disputant avec le soleil. A peine eu-t-il le temps 
